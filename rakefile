@@ -1,0 +1,2 @@
+require './config/environment'       #required to load up our environment
+require 'sinatra/activerecord/rake'  #required to load up our activerecord tasks from sinatra-activerecord gem
